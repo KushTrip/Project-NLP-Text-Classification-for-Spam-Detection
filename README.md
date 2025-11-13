@@ -43,7 +43,7 @@ To run this project locally, you need to have Python 3 and the required librarie
 ### 1. Clone the Repository
 
 ```
-git clone [https://github.com/KushTrip/Project-NLP-Text-Classification-for-Spam-Detection](https://github.com/KushTrip/Project-NLP-Text-Classification-for-Spam-Detection)
+git clone https://github.com/KushTrip/Project-NLP-Text-Classification-for-Spam-Detection
 cd Project-NLP-Text-Classification-for-Spam-Detection
 ```
 ### 2. Install Requirements
