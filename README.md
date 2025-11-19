@@ -13,6 +13,8 @@ The final system uses a **Linear Support Vector Machine (SVM)**, which was chose
 ### Key Components
 * **`spam_detection.ipynb`**: A Jupyter Notebook containing the entire data science pipeline, from data loading to final model evaluation.
 * **`spam.csv`**: The "SMS Spam Collection Dataset" used for training and testing.
+* **`messages.csv`**: The "Ling-Spam Dataset", one of the new big dataset to test the generalisation performance of the chosen model.
+* **`enron_spam_data`**: The "Enron-Spam Dataset", the biggest dataset in this project. It was used in the end also to test the generalisation performance of the chosen model. This Dataset is so Large (> 25 mb) that Github didn't allow it to be uploaded. Therefore, click this this [link](https://www.kaggle.com/datasets/marcelwiechmann/enron-spam-data), which will take you to the kaggle website where you can easily download it and use in the project.
 
 ---
 
